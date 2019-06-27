@@ -1,0 +1,2 @@
+# Python-Educate
+python eğitimleri 
